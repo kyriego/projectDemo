@@ -1,11 +1,10 @@
 #include<iostream>
 using namespace std;
 int main(){
-    int a;
-    int b;
-    cin >> a >> b;
-    int tmp;
-    int temp = a;
-    a = b;
-    b = temp;
+   int[] nums = new int[n];
+   int sum = 0;
+   for(int i = 0 ; i < n; i++){
+     sum += nums[i]
+   }
+   cout>>sum;
 }
