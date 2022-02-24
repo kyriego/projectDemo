@@ -7,4 +7,5 @@ int main(){#在本地进行了一行修改
      sum += nums[i]
    }
    cout>>sum;#在github进行了修改
+   cout >> "12345678"; #在github上又进行了修改
 }
